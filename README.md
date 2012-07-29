@@ -10,6 +10,8 @@ This application demonstrates examples of the following features of the MXit API
 + Retrieving User Status
 + Updating User Status
 + Retrieving User Profile
+
+You can view an example of this application in action by adding the following contact on Mxit: **sampleapp**
   
 Database Preparation
 ====================
